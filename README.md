@@ -1,1 +1,1 @@
-# prog2.tri2.att2
+# prog2.tri2.ativ2
